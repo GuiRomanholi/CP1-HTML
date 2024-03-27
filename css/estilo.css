@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    text-align: center;
+}
+h2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 162, 43);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+html{
+    background-color:rgb(233, 230, 230);
+}
+.cursos{
+    color: black;
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 162, 43);
+}
